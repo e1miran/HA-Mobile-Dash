@@ -3,6 +3,7 @@
   <img src="https://github.com/e1miran/HA-Mobile-Dash/blob/main/images/2_dashboard.gif" alt="dashboard 1" width="200"/>
   <img src="https://github.com/e1miran/HA-Mobile-Dash/blob/main/images/1_dashboard.gif" alt="dashboard 2" width="200"/>
 </div>
+<br>
 <p>
   The dashboard is one single view. So be warned that it is quite cumbersome.<br>
   Also, many of the elements were learned from the awesome <a href="https://www.youtube.com/@My_Smart_Home">My Smart Home YouTube channel</a>.  
