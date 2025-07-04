@@ -218,7 +218,7 @@ decluttering_templates:
             if (states['person.[[person]]'].state != 'home')
               return `<span style="font-size:0.6em">${states['sensor.ic3_[[person]]_iphone_location'].attributes.street}</span>`
             else
-              return `<span style="font-size:0.6em">Riva Ridge Drive</span>`
+              return `<span style="font-size:0.6em">Riviera Drive</span>`
           ]]]
 title: Home
 kiosk_mode:
